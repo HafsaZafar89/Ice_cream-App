@@ -1,0 +1,13 @@
+<resources>
+    <string name="search">search</string>
+    <string name="price_banana">$10.39</string>
+    <string name="price_mango">$20.39</string>
+    <string name="price_strawberry">$30.39</string>
+    <string name="price_chocolate">$40.39</string>
+    <string name="welcome">Hello Rose, choose your</string>
+    <string name="app_name">Best Ice_Cream</string>
+    <string name="Banana_IceCream">Banana Flavour</string>
+    <string name="Mango_IceCream">Banana Flavour</string>
+    <string name="Strawberry_IceCream">Strawberry Flavour</string>
+    <string name="Chocolate_IceCream">Chocolate Flavour</string>
+</resources>
