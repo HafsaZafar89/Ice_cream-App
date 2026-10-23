@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    android:background="@color/white">
+    android:background="@color/bg_color">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -53,7 +53,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginTop="30dp">
+        android:layout_marginTop="50dp">
 
         <!-- Banana Card -->
         <LinearLayout
@@ -152,7 +152,7 @@
             android:layout_height="@dimen/card_height"
             android:orientation="vertical"
             android:background="@color/light_pint"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             android:layout_marginStart="25dp"
             android:layout_marginBottom="10dp"
             android:layout_marginEnd="20dp">
@@ -193,7 +193,10 @@
             android:layout_height="@dimen/card_height"
             android:background="@color/light_pint"
             android:orientation="vertical"
-            android:layout_margin="10dp">
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="20dp">
 
             <ImageView
                 android:layout_width="@dimen/image_width"

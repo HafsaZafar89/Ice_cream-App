@@ -5,4 +5,5 @@
     <color name="grey">#575252</color>
     <color name="dark_pint">#D32E66</color>
     <color name="light_pint">#C87893</color>
+    <color name="bg_color">#F4C0D2</color>
 </resources>
